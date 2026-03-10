@@ -4,37 +4,38 @@
 **Quality Engineer & Data Analyst | 14 Years of Automotive Expertise | Bridging Industrial Quality with AI**
 
 ---
+
 ### 🧰 Tools & Technologies
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 </p>
 
 **Data Analysis & Visualization**
 <p align="left">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" alt="powerbi" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/PowerBI-150458?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
+  <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
+  <img src="https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
 </p>
 
 **Advanced Data Platforms & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="fabric" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-functions" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/Databricks-0078D4?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-functions" />
+  <img src="https://img.shields.io/badge/scikit--learn-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
 </p>
 
 **Workflow & Automation**
 <p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Analyst%20Focus-blueviolet?style=for-the-badge" alt="ai-agents" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="fastapi" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+  <img src="https://img.shields.io/badge/git-4D4D4D?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/AI%20Agents-4D4D4D?style=for-the-badge" alt="ai-agents" />
+  <img src="https://img.shields.io/badge/FastAPI-4D4D4D?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/docker-4D4D4D?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </p>
 
 ---
