@@ -80,7 +80,7 @@ An end-to-end machine learning solution to predict property prices in the Belgia
 - 📈 **Visuals:** Generated insights using **Python libraries (Matplotlib/Seaborn/Geospatial Maps (Folium))**.
 
 
-🏥 [**Arcelor Mittal HR Analysis**](https://github.com/esramogulkoc-dev/Arcelor_Mittal_HR-Sick-Leave-Analysis) — Identifying patterns in sick leave data to provide HR with actionable workforce insights with Power BI.
+🏥 [**HR Sick Leave Analysis**](https://github.com/esramogulkoc-dev/Arcelor_Mittal_HR-Sick-Leave-Analysis) — Identifying patterns in sick leave data to provide HR with actionable workforce insights with Power BI.
 - 📊 **Analytics:** Pattern recognition in sick leave data for HR optimization.  
 - 📈 **Visualization:** Created an interactive **Power BI Dashboard** to deliver actionable insights to stakeholders.
 
