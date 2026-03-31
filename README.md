@@ -1,4 +1,3 @@
-
 # Hello, I'm Esra! 👋
 
 **Quality Engineer & Data Analyst | 14 Years of Automotive Expertise | Bridging Industrial Quality with AI**
@@ -65,6 +64,22 @@
 ---
 
 ### ⭐ Featured projects
+
+#### 🤖 AI Engineering
+
+🔗 [**LinkedIn Learning Agent**](https://github.com/esramogulkoc-dev/linkedin-learning-agent) — An AI-powered tool that transforms weekly learning journals into professional LinkedIn posts.
+- 🧠 **AI Generation:** Uses **Google Gemini API** (`gemini-2.5-flash-lite`) to craft 3 post variations from raw notes.
+- 📝 **Prompt Engineering:** Structured prompts extract topics, insights, and generate hashtag-rich content.
+- 📤 **LinkedIn Integration:** Optional direct publishing via the **LinkedIn UGC Posts API**.
+
+📊 [**Retail Analytics Dashboard — Built with Claude Code**](https://github.com/esramogulkoc-dev/Data-analysis-by-using-AI-claude-code) — A production-ready interactive dashboard built in one session using Claude Code.
+- 📈 **Scale:** Processes **541,909 e-commerce transactions** across 37 countries.
+- 🖥️ **Dashboard:** 6-tab **Streamlit + Plotly** app with live KPIs, product analysis, and geographic breakdowns.
+- 🎯 **Claude Code Mastery:** Demonstrates Levels 1–3 (Commander, Planner, Context Engineer) of the 6-level framework.
+
+---
+
+#### 🏠 Data Analytics & ML
 
 🏠 [**Immo Eliza — End-to-End Real Estate Analysis**](https://github.com/esramogulkoc-dev/immo-eliza-deployment)  
 An end-to-end machine learning solution to predict property prices in the Belgian real estate market.  
