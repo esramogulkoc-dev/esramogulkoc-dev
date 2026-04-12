@@ -67,6 +67,12 @@
 
 #### 🤖 AI Engineering
 
+🔗 [**Retail Sales Chatbot**](https://github.com/esramogulkoc-dev/Retail_sales_chatbot) — Retails — Natural Language to SQL
+
+- 🛍️ **Overview:** A retail Q&A system that lets users query a t-shirt inventory database using plain English.  
+- 🧠 **NL to SQL:** Converts natural language questions into SQL queries.  
+- 📈 **Execution & Output:** Executes queries and returns human-readable answers.
+
 🔗 [**LinkedIn Learning Agent**](https://github.com/esramogulkoc-dev/linkedin-learning-agent) — An AI-powered tool that transforms weekly learning journals into professional LinkedIn posts.
 - 🧠 **AI Generation:** Uses **Google Gemini API** (`gemini-2.5-flash-lite`) to craft 3 post variations from raw notes.
 - 📝 **Prompt Engineering:** Structured prompts extract topics, insights, and generate hashtag-rich content.
@@ -80,6 +86,10 @@
 ---
 
 #### 🏠 Data Analytics & ML
+
+🔗 [**Jobposting SQL Analysis**](https://github.com/esramogulkoc-dev/Jobposting-SQL) — SQL and data analysis project focused on the Belgian data job market.  
+Live app: (https://jobposting-sql-px5qbsba3ktjiavgpmt8p6.streamlit.app/)
+- 📊 **What This Project Does:** Analyses job postings data to answer 6 key questions about the Belgian data job market.
 
 🏠 [**Immo Eliza — End-to-End Real Estate Analysis**](https://github.com/esramogulkoc-dev/immo-eliza-deployment)  
 An end-to-end machine learning solution to predict property prices in the Belgian real estate market.  
