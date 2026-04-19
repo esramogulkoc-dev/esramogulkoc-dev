@@ -1,37 +1,42 @@
 # Hello, I'm Esra! 👋
 
-**Quality Engineer & Data Analyst | 14 Years of Automotive Expertise | Bridging Industrial Quality with AI**
+Quality Engineer & Data Analyst | Focused on Data Analysis & AI Automation
+
+---
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/Python-2B2B2B?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+</p>
 
 ---
 
-**Languages**
+🤖 **AI & Data (Core Skills)**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge" alt="langchain" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-4B0082?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-openai" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-4B0082?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-foundry" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-4B0082?style=for-the-badge" alt="rag" />
+  <img src="https://img.shields.io/badge/scikit--learn-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
 </p>
 
-🤖 AI & Data (Core AI Stack)
+---
+
+📊 **Data Analysis & BI**
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-4F46E5?style=for-the-badge" alt="langchain" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-4F46E5?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-openai" />
-  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-4F46E5?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-foundry" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-4F46E5?style=for-the-badge" alt="rag" />
+  <img src="https://img.shields.io/badge/pandas-4B0082?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/PowerBI-4B0082?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
+  <img src="https://img.shields.io/badge/Streamlit-4B0082?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
+  <img src="https://img.shields.io/badge/Matplotlib-4B0082?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
 </p>
 
-📊 Data & ML Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/pandas-059669?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PowerBI-059669?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
-  <img src="https://img.shields.io/badge/Streamlit-059669?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
-  <img src="https://img.shields.io/badge/Matplotlib-059669?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-059669?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
-  <img src="https://img.shields.io/badge/scikit--learn-059669?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
-</p>
+---
 
-⚙️ Dev Tools
+⚙️ **Tools & Engineering**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/FastAPI-F97316?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/FastAPI-2B2B2B?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
 </p>
 ### 🚀 What drives me
 
