@@ -24,15 +24,10 @@
   <img src="https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
   <img src="https://img.shields.io/badge/scikit--learn-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
-</p>
-
-**Tools & Deployment**
-<p align="left">
   <img src="https://img.shields.io/badge/Git-4D4D4D?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/FastAPI-4D4D4D?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
-  <img src="https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-functions" />
-  <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="app-service" />
 </p>
+
 ### 🚀 What drives me
 
 * 🔍 Turning messy data into clear, actionable insights for decision-making  
