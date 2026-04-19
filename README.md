@@ -8,24 +8,24 @@
 
 **Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
-  <img src="https://img.shields.io/badge/python-4479A1?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 </p>
 
 🤖 AI & Data (Core Skills)
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge" alt="langchain" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-openai" />
-  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-foundry" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-0A0A0A?style=for-the-badge" alt="rag" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PowerBI-150458?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
-  <img src="https://img.shields.io/badge/Streamlit-150458?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
-  <img src="https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
-  <img src="https://img.shields.io/badge/scikit--learn-0078D4?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
-  <img src="https://img.shields.io/badge/Git-4D4D4D?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/FastAPI-4D4D4D?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge" alt="langchain" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-2563EB?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-openai" />
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-2563EB?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure-foundry" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-111827?style=for-the-badge" alt="rag" />
+  <img src="https://img.shields.io/badge/pandas-1E3A8A?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/PowerBI-1E3A8A?style=for-the-badge&logo=PowerBI&logoColor=white" alt="powerbi" />
+  <img src="https://img.shields.io/badge/Streamlit-1E3A8A?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit" />
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-2563EB?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
 </p>
 
 ### 🚀 What drives me
